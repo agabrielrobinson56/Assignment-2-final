@@ -1,0 +1,67 @@
+/* Layout */
+body { 
+    font-family: Georgia, 'Times New Roman', serif;
+    max-width: 800px; 
+    margin: 40px auto; 
+    padding: 20px; 
+    line-height: 1.7; 
+    background-color: #fff0db;
+}
+
+/* Headline */
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    margin-bottom: 0.3em;
+}
+
+/* Subhead */
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 0.875rem;
+    color: #555;
+    margin-top: 0;
+    margin-bottom: 1.6rem;
+}
+
+/* Byline */
+.byline {
+    font-size: 0.85rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+
+/* Image + caption */
+figure {
+    text-align: center;
+    margin: 0 auto 2rem auto;
+}
+
+figure img {
+    width: 100%;
+    max-width: 700px;
+    border-radius: 6px;
+}
+
+figcaption {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 6px;
+}
+
+/* Chart */
+iframe { 
+    margin: 40px auto; 
+    display: block; 
+    max-width: 100%; 
+    width: 100%;
+    height: 460px;
+}
+
+/* Paragraph spacing */
+p {
+    font-size: 1rem;
+    margin-bottom: 1.2rem;
+}
